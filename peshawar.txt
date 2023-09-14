@@ -1,1 +1,12 @@
 this is my first file in git repository.
+
+
+git clone <your repository url>
+cd <repository folder>
+
+create a new files
+
+git add .
+git commit -m "your messsge"
+git push
+
