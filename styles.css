@@ -35,9 +35,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 body {
-    font-size: 18px;
+    font-size: 19px;
 }
 
 h1 {
     font-weight: bolder;
+}
+body{
+    font-style: normal;
 }
